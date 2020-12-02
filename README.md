@@ -16,9 +16,9 @@ The `-f` or `--fast` flag immediately starts the execution of the script's `down
 ### Latest Helper Scripts
 
 The latest addition to the scripts available through RootHelper is `rootend.py`. It's a python3 implementation that automates
-enumeration and and privilege escalation operations.
+enumeration and privilege escalation operations.
 
-`RedGhost` Is the now available with RootHelper, it's a Linux post-exploitation framework and payload generator.
+`RedGhost` Is from now on available with RootHelper, it's a Linux post-exploitation framework and payload generator.
 
 `Linux Smart Enumeration` Is available with RootHelper. It's a tool based on LinEnum but with a heavy focus on the privilege escalation aspect that enumeration tools provide.
 
@@ -86,7 +86,7 @@ Linux post exploitation framework designed to assist in persistence, reconnaissa
 ```
 rootend
 ```
-Rootend automates enumeration and privilege escalation operations by targetting a wide arrange of potential exploitations catagories. It does so by looking for SUID bit enabled binaries. Weak permissions on security critical components, finding PHP Configuration files and much more.
+Rootend automates enumeration and privilege escalation operations by targetting a wide range of potential exploitation catagories. It does so by looking for SUID bit enabled binaries. Weak permissions on security critical components, finding PHP Configuration files and much more.
 
 
 # Usage
